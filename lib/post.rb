@@ -6,5 +6,5 @@ class Post
 end
 
 # first_post = Post.new("Kenia Post")
-# 
+#
 # first_post.author = "Gerald"
