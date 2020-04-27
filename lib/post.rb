@@ -5,6 +5,6 @@ class Post
   end
 end
 
-first_post = Post.new("Kenia Post")
-
-first_post.author = "Gerald"
+# first_post = Post.new("Kenia Post")
+# 
+# first_post.author = "Gerald"
