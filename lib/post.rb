@@ -7,4 +7,4 @@ end
 
 first_post = Post.new("Title1")
 
-first_post.aurthor = "Gerald"
+first_post.author = "Gerald"
