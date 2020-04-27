@@ -4,3 +4,5 @@ class Post
     @title = title
   end
 end
+
+first_post = Post.new("Title1")
